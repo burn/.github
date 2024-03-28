@@ -1,16 +1,19 @@
-#  All my code, factored into small, seperately usable, chunks
+#  All my code, factored into small, seperately usable, chunks 
+
+“For the simplicity on this side of complexity, I wouldn't give you a fig. But for the simplicity on the other side of complexity, for that I would give you anything I have.”  
+-― Oliver Wendell Holmes
 
 “Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius — and a lot of courage to move in the opposite direction.”  
-― E.F. Schumacher
+―- E.F. Schumacher
 
 “I have only made this letter longer because I have not had the time to make it shorter.”    
-— Blaise Pascal
+-— Blaise Pascal
 
 "One of my most productive days was throwing away 1000 lines of code."  
 -- Ken Thompson
 
 “Simplicity is a great virtue but ...complexity sells better.”   
-― Edsger Wybe Dijkstra
+-― Edsger Wybe Dijkstra
 
 Seems I can't use gists for this (since I can't assign a name to a gist). So here's my work in tiny chunks with a Makefile system in dotrc/Makefile that syncs all the parts.
 
