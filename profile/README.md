@@ -1,7 +1,7 @@
 #  All my code, factored into small, seperately usable, chunks 
 
-“For the simplicity on this side of complexity, I wouldn't give you a fig. But for the simplicity on the other side of complexity, for that I would give you anything I have.”  
--― Oliver Wendell Holmes
+"I wouldn't give a fig for the simplicity on this side of complexity; I would give my right arm for the simplicity on the far side of complexity"    
+--  Oliver Wendell Holmes, Sr..
 
 “Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius — and a lot of courage to move in the opposite direction.”  
 ―- E.F. Schumacher
